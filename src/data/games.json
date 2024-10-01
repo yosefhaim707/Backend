@@ -1,0 +1,10 @@
+[
+    {
+        "id": "123",
+        "player1Id": "123",
+        "player2Id": "123",
+        "moves": [],
+        "status": "InActive",
+        "winner": "Draw"
+    }
+]
